@@ -1,0 +1,7 @@
+﻿  card_file.c
+D:\saolei\AccountManagement 222\AccountManagement\card_file.c(13,7): warning C4101: “aBuf”: 未引用的局部变量
+D:\saolei\AccountManagement 222\AccountManagement\card_file.c(61,1): warning C4026: 使用形参表声明的函数
+D:\saolei\AccountManagement 222\AccountManagement\card_file.c(122,40): warning C4114: 多次使用同一类型限定符
+D:\saolei\AccountManagement 222\AccountManagement\card_file.c(124,7): warning C4101: “abuf”: 未引用的局部变量
+D:\saolei\AccountManagement 222\AccountManagement\card_file.c(95): warning C4716: “praseCard”: 必须返回一个值
+  AccountManagement.vcxproj -> D:\saolei\AccountManagement 222\x64\Debug\AccountManagement.exe
